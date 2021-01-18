@@ -1,0 +1,298 @@
+#block {
+    background: url("../images/bande\ milieu.png")  no-repeat center center fixed  ;
+}
+
+
+body {
+    background: url("../images/background\ village.png") ;
+    background-size: 1400px;
+}
+
+#logo {
+    position: relative;
+    height: 170px;
+    margin-left: 347px;
+}
+
+#bandes {
+    
+    position: absolute;
+    margin-left: 440px;
+    width: 1102px;
+    height: 145px;
+} 
+
+.nav {
+    margin-top: 16px;
+    font-weight: bolder;
+position :absolute;
+margin-left: 18%;
+display: inline-block;
+text-decoration: none;
+}
+
+.navTwo {
+    margin-top: 16px;
+font-weight: bolder;
+position :absolute;
+margin-left: 24%;
+display: inline-block;
+text-decoration: none;
+
+}
+
+#panier{
+    position: absolute;
+    right: 30%;
+    margin-top: 6px;
+    
+}
+
+#pics{
+    position: absolute;
+    right: 21%;
+    margin-top: 15px;
+}
+
+
+.nav2{
+    
+    position :absolute;
+    margin-left: 2%;
+    display: inline-block;
+    margin-top: 55px;
+    font-weight: bolder;
+    }
+    .nav2 a {
+    text-decoration: none;
+    color: white;
+    font-size: 22pt;
+    
+    
+    }
+    
+    .nav2 a ,a :hover {
+    margin-left: 51pt;
+    
+    }
+
+    .nav3{
+        position :absolute;
+        
+        display: inline-block;
+        margin-top: 110px;
+        }
+        .nav3 a {
+        text-decoration: none;
+        color: white;
+        font-size: 15pt;
+        
+        }
+        
+        .nav3 a ,a :hover {
+        margin-left: 19pt;
+        
+        }
+
+#bcentre{
+    margin-left: 336px;
+
+}
+#prixdroit{
+    margin-left:  35px;
+    margin-bottom: 20px;
+}
+
+#pubguitare{
+    margin-left: 370px;
+    margin-bottom: 20px;
+}
+
+.nav4 {
+    margin-left: 11px;
+}
+
+.nav5 {
+    margin-left: 336px;
+}
+.nav6 {
+    margin-left: 334px;
+}
+#cat {
+
+    text-decoration: none;
+    margin-bottom: 18px;
+    margin-left: 378px;
+    display: inline-block;
+    margin-top: 13px;
+    color: #193953;
+    font-weight: bolder;
+    font-size:20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#vente{
+    
+    text-decoration: none;
+    margin-bottom: 18px;
+    margin-left: 18%;
+    display: inline-block;
+    margin-top: 13px;
+    color: #193953;
+    font-weight: bolder;
+    font-size:20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.space{
+    margin-left: 378px;
+    padding-bottom: 2%;
+    
+    
+}
+
+#four{
+    margin-left: 2%;
+    
+}
+
+#footer{
+    margin-left: 328px;
+    margin-top: 1%;
+}
+
+#twoMilieu {
+    background: url("../images/bande\ milieu.png")  no-repeat center center fixed  ;
+}
+
+#two {
+    background:rgb(65, 65, 65) ;
+}
+
+@media screen and (max-width:812px)
+{
+#block{
+    width: 100%;
+}
+
+#logo{
+margin-left: 0;
+width: 35%;
+height: 100px;}
+
+#bandes{
+    margin-left: 0;
+    width: 100%;
+    height: 85px;}
+
+#pubguitare{
+    margin-left: 1px;
+    width: 71%;
+    height: 250px;
+}
+
+#prixdroit{
+    width: 19%;
+    height: 250px;
+}
+
+
+.nav {
+
+    font-weight: bolder;
+position :absolute;
+margin-left: 14%;
+display: inline-block;
+text-decoration: none;
+font-size: 9px;
+margin-top: 6px;
+}
+
+.navTwo {
+    
+font-weight: bolder;
+position :absolute;
+margin-left: 25%;
+display: inline-block;
+text-decoration: none;
+font-size: 9px;
+margin-top: 6px;
+
+}
+
+#panier{
+    right:85px;
+    position: absolute;
+    height: 15px;
+    margin-top: 6px;
+    
+}
+
+#pics{
+    right: 15px;
+    position: absolute;
+    height: 15px;
+    margin-top: 6px;
+}
+
+.nav2{
+    
+    position :absolute;
+    display: inline-block;
+    margin-top: 28px;
+    font-weight: bolder;
+    
+    }
+    .nav2 a {
+    text-decoration: none;
+    color: white;
+    font-size: 9px;
+    margin-left: 35px;
+    }
+    
+
+    .nav3{
+        position :absolute;
+        display: inline-block;
+        margin-top: 59px;
+        
+        }
+        .nav3 a {
+        text-decoration: none;
+        color: white;
+        font-size:9px;
+        margin-left: 0;
+        }
+
+#bcentre{
+    width:100%;
+    margin-left: 0;
+
+}
+
+#cat{
+    margin-left: 0;
+}
+
+.nav5{
+    margin: 0;
+}
+
+.nav6{
+    margin: 0;
+}
+
+.nav5,#p1{
+    height: 66px;
+}
+.nav5,#p2{
+    height: 66px;
+}
+.nav5,#p3{
+    height: 66px;
+}
+.nav5,#p4{
+    height: 66px;
+}
+}
+

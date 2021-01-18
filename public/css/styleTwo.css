@@ -1,0 +1,146 @@
+body{ 
+    background: url("../images/background\ village.png")  ;
+    max-width: 100%;
+}
+
+.container-fluid{
+    background: url("../images/bande\ milieu.png") no-repeat  center  ;
+    max-width: 100%;
+
+}
+#bandes3 {
+    
+    margin-left: 80px;
+    width: 1142px;
+    height: 145px;
+
+}
+
+#logo{
+    position: absolute;
+    height: 165px;
+    left: 4%;
+    
+
+}
+#nav {
+    margin-top: 10px;
+    font-weight: bolder;
+    position :absolute;
+    margin-left:650px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.navTwo {
+    margin-top: 10px;
+    font-weight: bolder;
+    position :absolute;
+    margin-left: 750px;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+#panier{
+    position: absolute;
+    right: 24%;
+    margin-top: 6px;
+    
+}
+
+#pics{
+    position: absolute;
+    right: 10%;
+    margin-top: 15px;
+}
+
+.nav2{
+    
+    position :absolute;
+    margin-left: 28%;
+    display: inline-block;
+    margin-top: 50px;
+    font-weight: bolder;
+    }
+    .nav2 a {
+    text-decoration: none;
+    color: white;
+    font-size: 22pt;
+    
+    
+    }
+    
+    .nav2 a ,a :hover {
+    margin-left: 51pt;
+    
+    }
+
+    .nav3{
+        position :absolute;
+        margin-left: 23%;
+        display: inline-block;
+        margin-top: 105px;
+        }
+        .nav3 a {
+        text-decoration: none;
+        color: white;
+        font-size: 15pt;
+        
+        }
+        
+        .nav3 a ,a :hover {
+        margin-left: 19pt;
+        
+        }
+
+
+
+.pub{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#prixdroit {
+    margin-left: 3%;
+}
+
+#bcentre{
+    margin-top: 2%;
+    margin-left: 27px;
+    width: 1194px;
+}
+
+#cat {
+
+    text-decoration: none;
+    margin-bottom: 18px;
+    margin-left: 6%;
+    display: inline-block;
+    margin-top: 13px;
+    color: #193953;
+    font-weight: bolder;
+    font-size:20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.containertwo{ 
+    background:rgb(56, 55, 55);
+}
+.nav5 {
+    margin-left: 39px;
+}
+.nav6 {
+    margin-left: 38px;
+
+}
+
+.containermilieu{
+    background: url("../images/bande\ milieu.png") no-repeat  center  ;
+
+}
+
+#footer{
+    margin-left: 18px;
+    margin-top: 1%;
+}
+
